@@ -24,8 +24,7 @@ O evento é uma leitura coletiva e aula aberta da peça "A Tempestade", com aná
 ├── index.html # Página principal do site
 ├── styles.css # Estilos personalizados (cores, layout, responsividade)
 ├── script.js # Interações JS (menu, rolagem suave, animações)
-└── assets/
-└── images/ # Imagens do evento, banner, QR code
+└── Z_Images/ # Imagens do evento, banner, QR code
 
 ---
 
